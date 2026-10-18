@@ -28,3 +28,14 @@ All Days Plumbing is a plumbing business in Johannesburg that offers 24/7 emerge
 ## Features
 # Part 1- Structure:
 5 HTML files, five linked pages
+# Part 2 - Design: 
+external stylesheet (style.css), CSS reset, Flexbox and Grid layout, hover/focus/active styles, responsive design with tablet (992px) and mobile (600px) breakpoints, responsive images.
+# Part 3 - Functionality: 
+services loaded with JavaScript and a search/sort feature, FAQ accordion, gallery lightbox, interactive Leaflet map, JavaScript form validation with error messages, AJAX form submit, email builder on the contact page, SEO (titles, meta tags, alt text, robots.txt, sitemap.xml), deployed online.
+## Changelog
+
+## References
+MDN Web Docs. (2026) HTML, CSS and JavaScript guides. Available at: https://developer.mozilla.org (Accessed: __ October 2026).
+Leaflet. (2026) Leaflet documentation. Available at: https://leafletjs.com (Accessed: __ October 2026).
+OpenStreetMap contributors. (2026) OpenStreetMap. Available at: https://www.openstreetmap.org (Accessed: __ October 2026).
+[Add every other source you used, in alphabetical order, including image sources]
