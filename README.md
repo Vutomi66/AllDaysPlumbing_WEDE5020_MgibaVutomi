@@ -33,6 +33,19 @@ external stylesheet (style.css), CSS reset, Flexbox and Grid layout, hover/focus
 ## Part 3 - Functionality: 
 services loaded with JavaScript and a search/sort feature, FAQ accordion, gallery lightbox, interactive Leaflet map, JavaScript form validation with error messages, AJAX form submit, email builder on the contact page, SEO (titles, meta tags, alt text, robots.txt, sitemap.xml), deployed online.
 # Changelog
+### Part1:
+Created the five pages(Home,AboutUs,Services,Enquiry,ContactUs)
+### Part2:
+1. Added one h2 per page with h2 and h3 and correct link tags. fixed the wrong or missing closing tags eacg page.
+2. Wrote real time contentt for all my pages so it can match the business
+3. Added comments to all five html files. Each comment says what the code does
+4. Changed to small commits with clear messages for example"add hover, syles the nav"
+5. Rewrote the README
+6. Created the changelog. Every change from the feedback is recorded here.
+7. Added referencing using the right formart
+8. Added styles.css(linked all the html files)
+9. Responsive design (mobile media for layout, fonts and menu and images)
+
 
 # References
 MDN Web Docs. (2026) HTML, CSS and JavaScript guides. Available at: https://developer.mozilla.org (Accessed: __ October 2026).
