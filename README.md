@@ -45,7 +45,16 @@ Created the five pages(Home,AboutUs,Services,Enquiry,ContactUs)
 7. Added referencing using the right formart
 8. Added styles.css(linked all the html files)
 9. Responsive design (mobile media for layout, fonts and menu and images)
-
+## Part3:
+1. Edited part 2 and change and added new information.
+2. Started my CSS from fresh and check if all files follow the information i typed in my css.
+3. Added one set of text style
+4. chechked if the hover, focus and active are working.
+5. Created the new changelog  for part1, part2 and part3
+6. Added referencing list
+7. Created java script and linked all my htmls files
+8. Rebuild the contactus.html adding new information and also fixed the enquiry form.
+9. created robot.xml
 
 # References
 MDN Web Docs. (2026) HTML, CSS and JavaScript guides. Available at: https://developer.mozilla.org (Accessed: __ October 2026).
