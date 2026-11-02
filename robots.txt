@@ -1,0 +1,4 @@
+User-agemt: *
+Allow: /
+
+Sitemap: https// Vutomi66 /https://github.com/Vutomi66/AllDaysPlumbing_WEDE5020_MgibaVutomi/.
